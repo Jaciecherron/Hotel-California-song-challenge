@@ -150,3 +150,8 @@ html {
   top: 1900px;
   left: 800px;
 }
+
+#aboutPage {
+  margin: auto 100px;
+  padding: 100px auto;
+}
