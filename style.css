@@ -65,13 +65,13 @@ html {
 
 .signature {
   position: relative;
-  left: 960px;
+  left: 980px;
   top: 560px;
   z-index: 2;
   font-family: "Great Vibes", cursive;
   font-weight: 400;
   font-style: normal;
-  font-size: 64px;
+  font-size: 54px;
 }
 
 .videoLink {
